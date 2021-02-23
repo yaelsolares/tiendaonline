@@ -1,9 +1,9 @@
 :root {
-    --primario: #9C27B0;
-    --primarioOscuro: #89119D;
-    --secundario: #FFCE00;
+    --primario: #000000;
+    --primarioOscuro: #9e0202;
+    --secundario: #0400ff;
     --secundarioOscuro: rgb(233, 187, 2);
-    --blanco: #FFF;
+    --blanco: rgb(255, 255, 255);
     --negro: #000;
 
     --fuentePrincipal: 'Staatliches', cursive;
@@ -61,6 +61,7 @@ h3 {
 }
 .header__logo {
     margin: 3rem 0;
+    
 }
 /** Footer **/
 .footer {
